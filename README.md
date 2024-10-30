@@ -54,3 +54,6 @@ I’m a self-taught, detail-oriented, and passionate Full Stack Developer with e
 ![JSON Web Tokens (JWT)](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 ![MVC Pattern](https://img.shields.io/badge/MVC_Pattern-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
+
+## Profiles
+- [LeetCode Profile]([https://leetcode.com/your_username_here/](https://leetcode.com/u/KarthikaKL/))
