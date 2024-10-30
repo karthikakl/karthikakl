@@ -56,4 +56,4 @@ I’m a self-taught, detail-oriented, and passionate Full Stack Developer with e
 
 
 ## Profiles
-- [LeetCode Profile]([https://leetcode.com/your_username_here/](https://leetcode.com/u/KarthikaKL/))
+- [LeetCode Profile](https://leetcode.com/u/KarthikaKL/)
