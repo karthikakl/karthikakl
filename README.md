@@ -38,7 +38,7 @@ I’m a self-taught, detail-oriented, and passionate Full Stack Developer with e
 ![Multer](https://img.shields.io/badge/Multer-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/RESTful-02569B?style=for-the-badge&logo=rest&logoColor=white)
 ![Nodemailer](https://img.shields.io/badge/Nodemailer-000000?style=for-the-badge&logo=maildotru&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-Templating_Language-9C27B0)
+
 
 
 ### • Tools and Platforms
