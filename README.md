@@ -6,4 +6,5 @@ I’m a self-taught, detail-oriented, and passionate Full Stack Developer with e
 
 ## Tech Stack
 
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
